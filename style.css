@@ -1,1 +1,12 @@
-/* Add styles here */
+button{
+    color: brown;
+    background-color: bisque;
+    width: 100px;
+    height: 50px;
+    font-size: large;
+ 
+}
+
+h1{
+    color: blue;
+}
